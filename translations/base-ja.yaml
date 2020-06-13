@@ -157,11 +157,11 @@ mainMenu:
 dialogs:
     buttons:
         ok: OK
-        delete: Delete
-        cancel: Cancel
+        delete: 削除
+        cancel: キャンセル
         later: Later
-        restart: Restart
-        reset: Reset
+        restart: リスタート
+        reset: リセット
         getStandalone: Get Standalone
         deleteGame: I know what I do
         viewUpdate: View Update
